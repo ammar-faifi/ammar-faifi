@@ -51,10 +51,8 @@
 
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats**
 
-
-## 📊 Github Readme Stats
  <br />
  <p align="center">
   <a href="https://github.com/ammar-faifi">
