@@ -16,7 +16,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ammar-faifi&label=Visitors&color=0088cc&style=flat-square" alt="ammar-faifi" /> </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-faifi&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api?username=ammar-faifi&theme=onedark&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
@@ -45,10 +45,10 @@
  <br />
  <p align="center">
   <a href="https://github.com/ammar-faifi">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-faifi&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-stats-ammar-faifi.vercel.app/api?username=ammar-faifi&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/ammar-faifi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 
