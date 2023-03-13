@@ -34,7 +34,8 @@
     <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-    <a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" alt="postgresql" width="40" height="40" /></a>
+    <a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" alt="Heroku" height="40" /></a>
+    <a href="https://www.railway.app" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-dark.svg" alt="Railway.app" height="40" /></a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="postgresql" height="40" /></a>
     <a href="https://cloudinary.com" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1638385862/cloudinary_cloud_glyph_blue_png.png" alt="postgresql" height="40" /></a>
 </p>
