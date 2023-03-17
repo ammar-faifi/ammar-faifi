@@ -51,7 +51,7 @@
   </a>
 
   <a href="https://github.com/ammar-faifi/github-readme-stats">
-    <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=onedark&langs_count=6" />
+    <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html" />
   </a>
  </p>
 
