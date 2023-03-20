@@ -51,11 +51,13 @@
   </a>
 
   <a href="https://github.com/ammar-faifi/github-readme-stats">
-    <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css" />
+    <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api/top-langs/?username=ammar-faifi&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css,purebasic,tcl" />
   </a>
  </p>
 
-
+> Disclamer: I exclude `Jupyter Notebooks`, they overwhelm the stats because plots and images are encoded inside them.
+> Also `HTML` and `CSS`; I work on them, but most of them came from 3rd libs or even auto generated, As in `Quarto`.
+> And `PureBasic` and `Tcl` were generated from `Xilnex` software.
 
 ## 🏆 Github Profile Trophy
 
