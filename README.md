@@ -39,7 +39,9 @@
     <a href="https://www.railway.app" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-light.png" alt="Railway.app" height="40" /></a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="postgresql" height="40" /></a>
     <a href="https://cloudinary.com" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1638385862/cloudinary_cloud_glyph_blue_png.png" alt="postgresql" height="40" /></a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" /></a>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats**
 
