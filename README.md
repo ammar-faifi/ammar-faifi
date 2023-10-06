@@ -60,13 +60,3 @@
 > Disclamer: I exclude `Jupyter Notebooks`, they overwhelm the stats because plots and images are encoded inside them.
 > Also `HTML` and `CSS`; I work on them, but most of them came from 3rd libs or even auto generated, As in `Quarto`.
 > And `PureBasic` and `Tcl` were generated from `Xilnex` software.
-
-## 🏆 Github Profile Trophy
-
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=ammar-faifi&column=8&theme=darkhub"/>
-  </a>
- </p>
-
