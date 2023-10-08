@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyZWQwMWI3ZDMxM2RiOTE5Mjk3ZGIwMzJiODY5YmFmN2U2NWQyNCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="90"> **About Me:**
 
-- 🔭 I’m currently working on **[Petroly Initiative](github.com/petroly-initiative)**.
+- 🔭 I’m currently working on **[Petroly Initiative](https://github.com/petroly-initiative)**.
 - 🌱 I’m currently learning **Lisp, Python, and OSs**.
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ammar-faifi?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ammar-faifi" height="30" width="40" /></a>
 - 💬 Ask me about **Python, Django, GraphQL, and LaTeX.**
