@@ -24,7 +24,7 @@
 
 <p align="center">
    <a href="https://www.gnu.org/software/emacs/" target="_blank"> <img src="https://wiki.installgentoo.com/images/a/a0/Icon_Emacs.png" alt="Emacs" width="40" height="40" /></a> 
-   <a href="https://www.vim.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="Vim" width="40" height="40" /></a> 
+   <a href="https://neovim.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/197px-Neovim-mark.svg.png" alt="neovim" width="40" height="40" /></a> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
