@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ammar-alfaifi" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ammar-faifi" /></a>
 <a href="https://ammarf.sa" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="ammar-faifi" /></a>
-<a href="mailto:me@ammarf.sa" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ammar-faifi" /></a>
+<a href="mailto:me@ammarf.sa" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Email&logoColor=white" alt="ammar-faifi" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ammar-faifi&label=Visitors&color=0088cc&style=flat-square" alt="ammar-faifi" /> </p>
 
 <p align="center">
