@@ -1,14 +1,5 @@
 # Hi there 👋 I'm Ammar Alfaifi
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyZWQwMWI3ZDMxM2RiOTE5Mjk3ZGIwMzJiODY5YmFmN2U2NWQyNCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="90"> **About Me:**
-
-- 🔭 I’m currently working on **[Petroly Initiative](https://github.com/petroly-initiative)**.
-- 🌱 I’m currently learning **Lisp, Python, and OSs**.
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ammar-faifi?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ammar-faifi" height="30" width="40" /></a>
-- 💬 Ask me about **Python, Django, GraphQL, and LaTeX.**
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
-
 <p align="center">
 <a href="https://linkedin.com/in/ammar-alfaifi" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ammar-faifi" /></a>
 <a href="https://ammarf.sa" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="ammar-faifi" /></a>
@@ -43,7 +34,8 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats**
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvZDNmb3hmejM5Zm5tdHBqejhxbXhjYzE0MnZreGRpMmdieTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgd2aXjyeUkgUTnfjg/giphy-downsized.gif" width="40"> **Github Stats**
+
 
  <br />
   
